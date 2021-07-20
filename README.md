@@ -9,3 +9,4 @@ Additions to e6:
 * Global XP
 * Pam's Harvestcraft 2
 * The Twilight Forest
+* Dynmap (server-side)
