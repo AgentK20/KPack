@@ -14,9 +14,9 @@
 	#Reset pitch to 0 when teleporting to directional elevators ?
 	resetPitchDirectional = true
 	#Should teleporting require XP ?
-	useXP = false
+	useXP = true
 	#Amount of XP points to use when useXP is enabled
 	#Note this is NOT experience levels
 	#Range: > 1
-	XPPointsAmount = 1
+	XPPointsAmount = 7
 
