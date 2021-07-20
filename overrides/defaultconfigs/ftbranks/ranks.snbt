@@ -1,0 +1,25 @@
+{
+	guest: {
+		name: "guest"
+		power: 0
+		command.spawn: false
+		command.tpa: false
+		command.tpahere: false
+		command.tpaccept: false
+	}
+	member: {
+		name: "Member"
+		power: 1
+		ftbranks.name_format: "<{name}>"
+	}
+	vip: {
+		name: "VIP"
+		power: 50
+		ftbranks.name_format: "<&bVIP {name}&r>"
+	}
+	admin: {
+		name: "Admin"
+		power: 1000
+		ftbranks.name_format: "<&2{name}&r>"
+	}
+}
