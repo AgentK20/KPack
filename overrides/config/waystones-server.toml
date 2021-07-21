@@ -73,7 +73,7 @@
 		sharestoneXpCostMultiplier = 1.0
 		#The multiplier applied to the base xp cost when teleporting from a portstone.
 		#Range: 0.0 ~ Infinity
-		portstoneXpCostMultiplier = 0.0
+		portstoneXpCostMultiplier = 1.0
 
 	#These options apply to the global waystones.
 	[server.globalWaystones]
@@ -102,7 +102,7 @@
 	[server.warpPlate]
 		#The multiplier applied to the base xp cost when teleporting from one warp plate to another.
 		#Range: 0.0 ~ Infinity
-		warpPlateXpCostMultiplier = 0.0
+		warpPlateXpCostMultiplier = 1.0
 		#The time in ticks that it takes to use a warp plate. This is the time the player has to stand on top for.
 		#Range: > 0
 		warpPlateUseTime = 20
