@@ -135,7 +135,20 @@ onEvent('recipes', (event) => {
                 id: 'thermal:machine/pulverizer/pulverizer_blaze_rod',
                 experience: 0.2
             },
-
+            {
+                input: 'appliedenergistics2:charged_quartz_ore',
+                outputs: [
+                  Item.of('appliedenergistics2:charged_certus_quartz_crystal', 2)
+                ],
+                experience: 0.2
+            },
+            {
+                input: 'appliedenergistics2:quartz_ore',
+                outputs: [
+                    Item.of('appliedenergistics2:certus_quartz_crystal', 2)
+                ],
+                experience: 0.2
+            }
         ]
     };
 
