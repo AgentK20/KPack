@@ -29,7 +29,7 @@ onEvent('item.tags', (event) => {
         'powah:uraninite'
     ]);
 
-    event.get('forge:ingots/copper').add('immersiveengineering:ingot_copper');
+    event.get('forge:ingots/copper').add('immersiveengineering:ingot_copper').add('libvulpes:ingotcopper');
     event.get('forge:ingots/alfsteel').add('mythicbotany:alfsteel_ingot');
     event.get('forge:ingots/pink_slime').add('industrialforegoing:pink_slime_ingot');
     event.get('forge:ingots/gaia').add('botania:gaia_ingot');
