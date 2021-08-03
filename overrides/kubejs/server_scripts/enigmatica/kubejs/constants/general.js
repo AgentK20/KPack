@@ -28,7 +28,10 @@ const modPriorities = [
     'byg',
     'atum',
     'betterendforge',
-    'miniutilities'
+    'miniutilities',
+    'appliedenergistics2',
+    'libvulpes',
+    'tconstruct'
 ];
 
 // Used for recipes/tags that use colors
