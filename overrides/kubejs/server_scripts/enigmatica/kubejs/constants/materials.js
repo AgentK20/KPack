@@ -91,7 +91,11 @@ const metals = [
     'tin',
     'uranium',
     'utherium',
-    'zinc'
+    'zinc',
+    'iridium',
+    'silicon',
+    'steel',
+    'titanium'
 ];
 
 // Defines melting point of various materials
