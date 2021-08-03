@@ -65,7 +65,11 @@ const materialsToUnify = [
     'manyullyn',
     'hepatizon',
     'thallasium',
-    'nebu'
+    'nebu',
+    'iridium',
+    'silicon',
+    'steel',
+    'titanium'
 ];
 
 // Used to determine which material types to unify
@@ -91,11 +95,7 @@ const metals = [
     'tin',
     'uranium',
     'utherium',
-    'zinc',
-    'iridium',
-    'silicon',
-    'steel',
-    'titanium'
+    'zinc'
 ];
 
 // Defines melting point of various materials
