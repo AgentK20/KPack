@@ -28,4 +28,5 @@ onEvent('item.tags', (event) => {
     event.get('forge:gems/mana_gem').remove('ars_nouveau:mana_gem');
     event.get('forge:gems/sulfur').add('betterendforge:crystalline_sulphur');
     event.get('forge:gems/amber').add('betterendforge:amber_gem');
+    event.get('forge:gems/silicon').add('appliedenergistics2:silicon');
 });
